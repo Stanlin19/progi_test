@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HaybnLAl2EjYJsPXKKAL7WmCQRCVjYpdWsVkqJv4z3LYDxQv4Mhy87waarxZK2QmWgwW6K8OYjWqzs0QMWKa1Q==",
+  "dgSpecHash": "ILMskTKrhZ5PVaj+fK33POsE44BWZGr73Wvxi9n1KYukOQGeCHhFOk5RkZE5wshp76YJGMQDQKvXlP0fn5dUhQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jstan\\OneDrive\\Escritorio\\pruebas tecnicas\\progi\\BidCalculator\\BidCalculator\\BidCalculator.csproj",
+  "projectFilePath": "C:\\Users\\jstan\\OneDrive\\Escritorio\\pruebas tecnicas\\progi_test\\progi\\BidCalculator\\BidCalculator\\BidCalculator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jstan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\jstan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512",

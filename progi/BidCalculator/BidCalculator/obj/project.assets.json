@@ -285,11 +285,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jstan\\OneDrive\\Escritorio\\pruebas tecnicas\\progi\\BidCalculator\\BidCalculator\\BidCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\jstan\\OneDrive\\Escritorio\\pruebas tecnicas\\progi_test\\progi\\BidCalculator\\BidCalculator\\BidCalculator.csproj",
       "projectName": "BidCalculator",
-      "projectPath": "C:\\Users\\jstan\\OneDrive\\Escritorio\\pruebas tecnicas\\progi\\BidCalculator\\BidCalculator\\BidCalculator.csproj",
+      "projectPath": "C:\\Users\\jstan\\OneDrive\\Escritorio\\pruebas tecnicas\\progi_test\\progi\\BidCalculator\\BidCalculator\\BidCalculator.csproj",
       "packagesPath": "C:\\Users\\jstan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jstan\\OneDrive\\Escritorio\\pruebas tecnicas\\progi\\BidCalculator\\BidCalculator\\obj\\",
+      "outputPath": "C:\\Users\\jstan\\OneDrive\\Escritorio\\pruebas tecnicas\\progi_test\\progi\\BidCalculator\\BidCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
