@@ -1,2 +1,2 @@
 # progi_test
-proyecto para calcular licitacion de vehiculos, con patron factory, servicio rest, ddl y mvc
+Project to calculate bid of a vehicule, it use factory patter, rest service and mvc.

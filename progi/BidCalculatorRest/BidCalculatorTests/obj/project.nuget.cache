@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iv81u0f+AhvO8VOdkoAFOhuttaIOX5cvDS/0DV2uWyfahi/kRghW65drX7vvLrrkrQNRepgA9qwkwkPn9ea/ZQ==",
+  "dgSpecHash": "Kyd8b64iUHFXgrhy3a7UeJSigIn/GGszkINr1SRHmT8+mcVJARcwruHhjP0zqIg6PEUDj6c61R0SwfI4LqEIPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jstan\\OneDrive\\Escritorio\\pruebas tecnicas\\progi\\BidCalculatorRest\\BidCalculatorTests\\BidCalculatorTests.csproj",
+  "projectFilePath": "C:\\Users\\jstan\\OneDrive\\Escritorio\\pruebas tecnicas\\progi_test\\progi\\BidCalculatorRest\\BidCalculatorTests\\BidCalculatorTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jstan\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\jstan\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
