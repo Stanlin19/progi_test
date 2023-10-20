@@ -1,0 +1,121 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BidCalculator/1.0.0": {
+        "dependencies": {
+          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.19.4",
+          "MindSim.SignalRSwaggerGen": "2.1.3",
+          "Swashbuckle.AspNetCore.Swagger": "6.1.4",
+          "Swashbuckle.AspNetCore.SwaggerUI": "6.5.0"
+        },
+        "runtime": {
+          "BidCalculator.dll": {}
+        }
+      },
+      "Microsoft.OpenApi/1.2.3": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
+            "assemblyVersion": "1.2.3.0",
+            "fileVersion": "1.2.3.0"
+          }
+        }
+      },
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.19.4": {},
+      "MindSim.SignalRSwaggerGen/2.1.3": {
+        "dependencies": {
+          "Swashbuckle.AspNetCore.SwaggerGen": "6.1.4"
+        },
+        "runtime": {
+          "lib/netstandard2.1/SignalRSwaggerGen.dll": {
+            "assemblyVersion": "2.1.3.0",
+            "fileVersion": "2.1.3.0"
+          }
+        }
+      },
+      "Swashbuckle.AspNetCore.Swagger/6.1.4": {
+        "dependencies": {
+          "Microsoft.OpenApi": "1.2.3"
+        },
+        "runtime": {
+          "lib/net5.0/Swashbuckle.AspNetCore.Swagger.dll": {
+            "assemblyVersion": "6.1.4.0",
+            "fileVersion": "6.1.4.0"
+          }
+        }
+      },
+      "Swashbuckle.AspNetCore.SwaggerGen/6.1.4": {
+        "dependencies": {
+          "Swashbuckle.AspNetCore.Swagger": "6.1.4"
+        },
+        "runtime": {
+          "lib/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
+            "assemblyVersion": "6.1.4.0",
+            "fileVersion": "6.1.4.0"
+          }
+        }
+      },
+      "Swashbuckle.AspNetCore.SwaggerUI/6.5.0": {
+        "runtime": {
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
+            "assemblyVersion": "6.5.0.0",
+            "fileVersion": "6.5.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BidCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.OpenApi/1.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Nug3rO+7Kl5/SBAadzSMAVgqDlfGjJZ0GenQrLywJ84XGKO0uRqkunz5Wyl0SDwcR71bAATXvSdbdzPrYRYKGw==",
+      "path": "microsoft.openapi/1.2.3",
+      "hashPath": "microsoft.openapi.1.2.3.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.19.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aKxpRAUIxDrnSnyr7xJWGixOBgsB7Z4oHpWRkpRzzq04kfze4mN7944gRc4X9H2U5KG3A/btF74kavkO8KXqCg==",
+      "path": "microsoft.visualstudio.azure.containers.tools.targets/1.19.4",
+      "hashPath": "microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+    },
+    "MindSim.SignalRSwaggerGen/2.1.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LSoNsbGON1W9oJFIOFc/2XzFDOruvM7STiT7F756gj63WttKEiZis9pMeMdpUbtjxPNWVOTt4pxYhjLWEGDQaw==",
+      "path": "mindsim.signalrswaggergen/2.1.3",
+      "hashPath": "mindsim.signalrswaggergen.2.1.3.nupkg.sha512"
+    },
+    "Swashbuckle.AspNetCore.Swagger/6.1.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5XRKPKXpQRJMdOwHgotSZjWYGKnvresUIKiUOecmDrsiTkRpUd15QJMS/+HKYjjOvWnJthYwhLJG3pABJOHwOg==",
+      "path": "swashbuckle.aspnetcore.swagger/6.1.4",
+      "hashPath": "swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512"
+    },
+    "Swashbuckle.AspNetCore.SwaggerGen/6.1.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-i0Y3a3XMKz7r9vMNtB7TUIsWXpz9uJwnJ42NV3lAnmem7XpTykxm/cFJqHc9CqVBdbPf7XPvhUvEiUybRlocIg==",
+      "path": "swashbuckle.aspnetcore.swaggergen/6.1.4",
+      "hashPath": "swashbuckle.aspnetcore.swaggergen.6.1.4.nupkg.sha512"
+    },
+    "Swashbuckle.AspNetCore.SwaggerUI/6.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OvbvxX+wL8skxTBttcBsVxdh73Fag4xwqEU2edh4JMn7Ws/xJHnY/JB1e9RoCb6XpDxUF3hD9A0Z1lEUx40Pfw==",
+      "path": "swashbuckle.aspnetcore.swaggerui/6.5.0",
+      "hashPath": "swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+    }
+  }
+}
